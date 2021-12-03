@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-#fatto da rodod e quel terrone di esix4rmyy / made by me (rodod) and the terrone esix4rmyy
+# fatto da rodod e quel terrone di esix4rmyy / made by me (rodod) and the terrone esix4rmyy
 import ccxt
 from ccxt.base.exchange import Exchange
 import matplotlib.pyplot as pl
